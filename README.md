@@ -19,15 +19,15 @@ I'm a passionate data scientist and a statistics graduate with a strong backgrou
 
 ## How to Reach Me
 
-- 📫 [Your Email or Contact Info]
+- 📫 teniolavof@gmail.com
 
 ## Pronouns
 
-- 😄 [Your Pronouns]
+- 😄 she/her
 
 ## Fun Fact
 
-- ⚡ [Your Fun Fact]
+- ⚡ 
 
 ---
 
