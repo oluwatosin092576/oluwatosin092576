@@ -1,4 +1,4 @@
-# Hi, I'm @oluwatosin092576 👋
+# Hi, I'm Oluwatosin Adewuyi 👋
 
 I'm a passionate data scientist and a statistics graduate with a strong background in data analytics. I love turning data into insights using tools like Power BI, Tableau, Excel, and SPSS.
 
